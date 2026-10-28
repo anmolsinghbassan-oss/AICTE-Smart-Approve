@@ -1,0 +1,65 @@
+@import "tailwindcss";
+
+@theme {
+  --color-aicte-50: #F0F4FA;
+  --color-aicte-100: #D9E3F3;
+  --color-aicte-200: #B4C8E6;
+  --color-aicte-300: #86A7D5;
+  --color-aicte-400: #4C7EC1;
+  --color-aicte-500: #2A5C9E;
+  --color-aicte-600: #1F3864;
+  --color-aicte-700: #182C50;
+  --color-aicte-800: #12213D;
+  --color-aicte-900: #0C172B;
+  --color-aicte-950: #060B16;
+
+  --color-saffron-50: #FFF7ED;
+  --color-saffron-100: #FFEDD5;
+  --color-saffron-200: #FED7AA;
+  --color-saffron-400: #FB923C;
+  --color-saffron-500: #FF9933;
+  --color-saffron-600: #EA580C;
+  --color-saffron-700: #C2410C;
+
+  --color-govteal-50: #F0FDFA;
+  --color-govteal-100: #CCFBF1;
+  --color-govteal-400: #2DD4BF;
+  --color-govteal-500: #14B8A6;
+  --color-govteal-600: #0D9488;
+  --color-govteal-700: #0F766E;
+}
+
+@layer base {
+  body {
+    font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background-color: #f8fafc;
+    color: #0f172a;
+  }
+}
+
+/* Custom scrollbars for dashboard views */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+.dark ::-webkit-scrollbar-thumb {
+  background: #334155;
+}
+
+/* High contrast mode adjustments */
+.high-contrast {
+  filter: contrast(135%);
+}
+.high-contrast * {
+  border-color: #000 !important;
+}
+.dark.high-contrast * {
+  border-color: #fff !important;
+}

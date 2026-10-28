@@ -1,0 +1,4426 @@
+{
+  "institutions": [
+    {
+      "id": "1-1029384711",
+      "name": "College of Engineering, Pune (COEP Technological Univ)",
+      "code": "COEP-MH-01",
+      "state": "Maharashtra",
+      "region": "Western",
+      "discipline": "Engineering & Technology",
+      "type": "Government",
+      "establishedYear": 1854,
+      "address": "Wellesley Rd, Shivajinagar, Pune, Maharashtra 411005",
+      "contactEmail": "director@coep.ac.in",
+      "contactPhone": "+91 20 2550 7000",
+      "principalName": "Dr. B. B. Ahuja",
+      "complianceScore": 96,
+      "riskLevel": "Low",
+      "riskProbability": 0.04,
+      "riskReasons": [
+        "Exemplary compliance history",
+        "Faculty cadre ratio optimal"
+      ],
+      "intakeApproved": 1120,
+      "totalFaculty": 145,
+      "totalStudents": 2240,
+      "builtUpAreaSqM": 45000,
+      "labCount": 52,
+      "libraryBooks": 85000,
+      "fireNocValidTill": "2027-03-31",
+      "lastInspectionDate": "2025-11-12",
+      "status": "Approved",
+      "sources": {
+        "regionalOffice": true,
+        "inspectionCommittee": true,
+        "instituteSelfReported": true,
+        "complaintCell": false
+      }
+    },
+    {
+      "id": "1-2039485722",
+      "name": "Veermata Jijabai Technological Institute (VJTI) Mumbai",
+      "code": "VJTI-MH-02",
+      "state": "Maharashtra",
+      "region": "Western",
+      "discipline": "Engineering & Technology",
+      "type": "Government-Aided",
+      "establishedYear": 1887,
+      "address": "H R Mahajani Marg, Matunga, Mumbai, Maharashtra 400019",
+      "contactEmail": "director@vjti.ac.in",
+      "contactPhone": "+91 22 2419 8101",
+      "principalName": "Dr. Sachin Kore",
+      "complianceScore": 92,
+      "riskLevel": "Low",
+      "riskProbability": 0.08,
+      "riskReasons": [
+        "Minor renewal pending on lab ventilation audit"
+      ],
+      "intakeApproved": 980,
+      "totalFaculty": 118,
+      "totalStudents": 1960,
+      "builtUpAreaSqM": 38000,
+      "labCount": 44,
+      "libraryBooks": 72000,
+      "fireNocValidTill": "2026-12-15",
+      "lastInspectionDate": "2025-10-04",
+      "status": "Approved",
+      "sources": {
+        "regionalOffice": true,
+        "inspectionCommittee": true,
+        "instituteSelfReported": true,
+        "complaintCell": false
+      }
+    },
+    {
+      "id": "1-3049586733",
+      "name": "RV College of Engineering, Bengaluru",
+      "code": "RVCE-KA-01",
+      "state": "Karnataka",
+      "region": "South-Western",
+      "discipline": "Engineering & Technology",
+      "type": "Private Self-Financing",
+      "establishedYear": 1963,
+      "address": "Mysore Rd, RV Vidyaniketan, Post, Bengaluru, Karnataka 560059",
+      "contactEmail": "principal@rvce.edu.in",
+      "contactPhone": "+91 80 6818 8100",
+      "principalName": "Dr. K. N. Subramanya",
+      "complianceScore": 89,
+      "riskLevel": "Low",
+      "riskProbability": 0.11,
+      "riskReasons": [
+        "Slight student-faculty surge in AI/Data Science PG course"
+      ],
+      "intakeApproved": 1440,
+      "totalFaculty": 168,
+      "totalStudents": 2880,
+      "builtUpAreaSqM": 52000,
+      "labCount": 68,
+      "libraryBooks": 98000,
+      "fireNocValidTill": "2027-01-20",
+      "lastInspectionDate": "2025-08-19",
+      "status": "Approved",
+      "sources": {
+        "regionalOffice": true,
+        "inspectionCommittee": true,
+        "instituteSelfReported": true,
+        "complaintCell": false
+      }
+    },
+    {
+      "id": "1-4059687744",
+      "name": "PSG College of Technology, Coimbatore",
+      "code": "PSGCT-TN-01",
+      "state": "Tamil Nadu",
+      "region": "Southern",
+      "discipline": "Engineering & Technology",
+      "type": "Government-Aided",
+      "establishedYear": 1951,
+      "address": "Avinashi Rd, Peelamedu, Coimbatore, Tamil Nadu 641004",
+      "contactEmail": "principal@psgtech.edu",
+      "contactPhone": "+91 422 257 2177",
+      "principalName": "Dr. K. Prakasan",
+      "complianceScore": 94,
+      "riskLevel": "Low",
+      "riskProbability": 0.06,
+      "riskReasons": [
+        "High research publication output",
+        "Zero public complaints"
+      ],
+      "intakeApproved": 1260,
+      "totalFaculty": 154,
+      "totalStudents": 2520,
+      "builtUpAreaSqM": 61000,
+      "labCount": 75,
+      "libraryBooks": 110000,
+      "fireNocValidTill": "2027-06-30",
+      "lastInspectionDate": "2025-09-15",
+      "status": "Approved",
+      "sources": {
+        "regionalOffice": true,
+        "inspectionCommittee": true,
+        "instituteSelfReported": true,
+        "complaintCell": false
+      }
+    },
+    {
+      "id": "1-5069788755",
+      "name": "Delhi Technological University (DTU), Delhi",
+      "code": "DTU-DL-01",
+      "state": "Delhi",
+      "region": "Northern",
+      "discipline": "Engineering & Technology",
+      "type": "Government",
+      "establishedYear": 1941,
+      "address": "Shahbad Daulatpur, Bawana Rd, Delhi 110042",
+      "contactEmail": "vcoffice@dtu.ac.in",
+      "contactPhone": "+91 11 2787 1018",
+      "principalName": "Prof. Prateek Sharma",
+      "complianceScore": 91,
+      "riskLevel": "Low",
+      "riskProbability": 0.09,
+      "riskReasons": [
+        "Campus expansion requires barrier-free audit documentation"
+      ],
+      "intakeApproved": 2400,
+      "totalFaculty": 255,
+      "totalStudents": 4800,
+      "builtUpAreaSqM": 84000,
+      "labCount": 92,
+      "libraryBooks": 145000,
+      "fireNocValidTill": "2026-11-10",
+      "lastInspectionDate": "2025-07-22",
+      "status": "Approved",
+      "sources": {
+        "regionalOffice": true,
+        "inspectionCommittee": true,
+        "instituteSelfReported": true,
+        "complaintCell": false
+      }
+    },
+    {
+      "id": "1-6079889766",
+      "name": "Sardar Patel College of Engineering, Mumbai",
+      "code": "SPCE-MH-03",
+      "state": "Maharashtra",
+      "region": "Western",
+      "discipline": "Engineering & Technology",
+      "type": "Government-Aided",
+      "establishedYear": 1962,
+      "address": "Munshi Nagar, Andheri West, Mumbai, Maharashtra 400058",
+      "contactEmail": "principal@spce.ac.in",
+      "contactPhone": "+91 22 2623 2164",
+      "principalName": "Dr. M. M. Murudi",
+      "complianceScore": 68,
+      "riskLevel": "High",
+      "riskProbability": 0.62,
+      "riskReasons": [
+        "Ghost faculty PAN collision detected with SPIT/COEP",
+        "Fire NOC expiring in 18 days"
+      ],
+      "intakeApproved": 420,
+      "totalFaculty": 34,
+      "totalStudents": 840,
+      "builtUpAreaSqM": 19000,
+      "labCount": 26,
+      "libraryBooks": 34000,
+      "fireNocValidTill": "2026-11-14",
+      "lastInspectionDate": "2025-04-18",
+      "status": "Deficiency Issued",
+      "sources": {
+        "regionalOffice": true,
+        "inspectionCommittee": true,
+        "instituteSelfReported": true,
+        "complaintCell": true
+      }
+    },
+    {
+      "id": "1-7089990777",
+      "name": "Bombay College of Pharmacy, Kalina, Mumbai",
+      "code": "BCP-MH-01",
+      "state": "Maharashtra",
+      "region": "Western",
+      "discipline": "Pharmacy",
+      "type": "Government-Aided",
+      "establishedYear": 1957,
+      "address": "Kalina, Santacruz East, Mumbai, Maharashtra 400098",
+      "contactEmail": "office@bcp.edu.in",
+      "contactPhone": "+91 22 2667 0871",
+      "principalName": "Dr. Krishna Iyer",
+      "complianceScore": 88,
+      "riskLevel": "Low",
+      "riskProbability": 0.12,
+      "riskReasons": [
+        "PCI and AICTE dual compliance aligned"
+      ],
+      "intakeApproved": 160,
+      "totalFaculty": 24,
+      "totalStudents": 320,
+      "builtUpAreaSqM": 12000,
+      "labCount": 18,
+      "libraryBooks": 21000,
+      "fireNocValidTill": "2027-04-20",
+      "lastInspectionDate": "2025-10-18",
+      "status": "Approved",
+      "sources": {
+        "regionalOffice": true,
+        "inspectionCommittee": true,
+        "instituteSelfReported": true,
+        "complaintCell": false
+      }
+    },
+    {
+      "id": "1-8091001788",
+      "name": "National Institute of Pharmaceutical Education & Research (NIPER)",
+      "code": "NIPER-PB-01",
+      "state": "Punjab",
+      "region": "North-West",
+      "discipline": "Pharmacy",
+      "type": "Government",
+      "establishedYear": 1998,
+      "address": "Sector 67, S.A.S. Nagar, Mohali, Punjab 160062",
+      "contactEmail": "director@niper.ac.in",
+      "contactPhone": "+91 172 221 4682",
+      "principalName": "Prof. Dulal Panda",
+      "complianceScore": 97,
+      "riskLevel": "Low",
+      "riskProbability": 0.03,
+      "riskReasons": [
+        "Center of Excellence designation"
+      ],
+      "intakeApproved": 320,
+      "totalFaculty": 48,
+      "totalStudents": 640,
+      "builtUpAreaSqM": 35000,
+      "labCount": 42,
+      "libraryBooks": 39000,
+      "fireNocValidTill": "2027-09-15",
+      "lastInspectionDate": "2025-12-01",
+      "status": "Approved",
+      "sources": {
+        "regionalOffice": true,
+        "inspectionCommittee": true,
+        "instituteSelfReported": true,
+        "complaintCell": false
+      }
+    },
+    {
+      "id": "1-9102112799",
+      "name": "Jamnalal Bajaj Institute of Management Studies (JBIMS)",
+      "code": "JBIMS-MH-01",
+      "state": "Maharashtra",
+      "region": "Western",
+      "discipline": "Management",
+      "type": "Government",
+      "establishedYear": 1965,
+      "address": "164 Backbay Reclamation, H.T. Parekh Marg, Churchgate, Mumbai 400020",
+      "contactEmail": "director@jbims.edu",
+      "contactPhone": "+91 22 2202 4133",
+      "principalName": "Dr. Srinivasan Iyengar",
+      "complianceScore": 86,
+      "riskLevel": "Medium",
+      "riskProbability": 0.28,
+      "riskReasons": [
+        "Built-up instructional space limitation in South Mumbai campus"
+      ],
+      "intakeApproved": 240,
+      "totalFaculty": 22,
+      "totalStudents": 480,
+      "builtUpAreaSqM": 9500,
+      "labCount": 8,
+      "libraryBooks": 42000,
+      "fireNocValidTill": "2026-11-28",
+      "lastInspectionDate": "2025-06-11",
+      "status": "Under Scrutiny",
+      "sources": {
+        "regionalOffice": true,
+        "inspectionCommittee": true,
+        "instituteSelfReported": true,
+        "complaintCell": false
+      }
+    },
+    {
+      "id": "1-1123223800",
+      "name": "Faculty of Management Studies (FMS), University of Delhi",
+      "code": "FMS-DL-01",
+      "state": "Delhi",
+      "region": "Northern",
+      "discipline": "Management",
+      "type": "Government",
+      "establishedYear": 1954,
+      "address": "Prof. N.D. Kapoor Marg, Opp. Kirori Mal College, Delhi 110007",
+      "contactEmail": "dean@fms.edu",
+      "contactPhone": "+91 11 2766 6382",
+      "principalName": "Prof. Venkat Raman",
+      "complianceScore": 93,
+      "riskLevel": "Low",
+      "riskProbability": 0.07,
+      "riskReasons": [
+        "Consistently top-ranked management faculty ratio"
+      ],
+      "intakeApproved": 350,
+      "totalFaculty": 38,
+      "totalStudents": 700,
+      "builtUpAreaSqM": 14000,
+      "labCount": 12,
+      "libraryBooks": 56000,
+      "fireNocValidTill": "2027-02-14",
+      "lastInspectionDate": "2025-11-09",
+      "status": "Approved",
+      "sources": {
+        "regionalOffice": true,
+        "inspectionCommittee": true,
+        "instituteSelfReported": true,
+        "complaintCell": false
+      }
+    },
+    {
+      "id": "1-1234334811",
+      "name": "Government Polytechnic, Pune",
+      "code": "GPP-MH-01",
+      "state": "Maharashtra",
+      "region": "Western",
+      "discipline": "Polytechnic / Diploma",
+      "type": "Government",
+      "establishedYear": 1957,
+      "address": "University Road, Ganeshkhind, Pune, Maharashtra 411016",
+      "contactEmail": "principal.gppune@dtemaharashtra.gov.in",
+      "contactPhone": "+91 20 2567 6818",
+      "principalName": "Dr. V. B. Jaware",
+      "complianceScore": 84,
+      "riskLevel": "Medium",
+      "riskProbability": 0.32,
+      "riskReasons": [
+        "Cadre ratio imbalance in civil & mechanical diploma streams"
+      ],
+      "intakeApproved": 720,
+      "totalFaculty": 42,
+      "totalStudents": 1440,
+      "builtUpAreaSqM": 26000,
+      "labCount": 38,
+      "libraryBooks": 48000,
+      "fireNocValidTill": "2026-10-30",
+      "lastInspectionDate": "2025-05-14",
+      "status": "Under Scrutiny",
+      "sources": {
+        "regionalOffice": true,
+        "inspectionCommittee": true,
+        "instituteSelfReported": true,
+        "complaintCell": false
+      }
+    },
+    {
+      "id": "1-1345445822",
+      "name": "Government Polytechnic, Hyderabad",
+      "code": "GPH-TS-01",
+      "state": "Telangana",
+      "region": "South-Central",
+      "discipline": "Polytechnic / Diploma",
+      "type": "Government",
+      "establishedYear": 1923,
+      "address": "Ramanthapur, Hyderabad, Telangana 500013",
+      "contactEmail": "principal_gpt001@yahoo.co.in",
+      "contactPhone": "+91 40 2703 8312",
+      "principalName": "Sri K. Sudhakar",
+      "complianceScore": 78,
+      "riskLevel": "Medium",
+      "riskProbability": 0.38,
+      "riskReasons": [
+        "Computer lab equipment upgrade pending for Cyber Physical Diploma"
+      ],
+      "intakeApproved": 600,
+      "totalFaculty": 35,
+      "totalStudents": 1200,
+      "builtUpAreaSqM": 22000,
+      "labCount": 30,
+      "libraryBooks": 32000,
+      "fireNocValidTill": "2026-12-01",
+      "lastInspectionDate": "2025-04-29",
+      "status": "Under Scrutiny",
+      "sources": {
+        "regionalOffice": true,
+        "inspectionCommittee": false,
+        "instituteSelfReported": true,
+        "complaintCell": false
+      }
+    },
+    {
+      "id": "1-1456556833",
+      "name": "Jadavpur University Faculty of Engg & Tech, Kolkata",
+      "code": "JU-WB-01",
+      "state": "West Bengal",
+      "region": "Eastern",
+      "discipline": "Engineering & Technology",
+      "type": "Government",
+      "establishedYear": 1906,
+      "address": "188, Raja S.C. Mallick Rd, Jadavpur, Kolkata, West Bengal 700032",
+      "contactEmail": "dean_fet@jadavpuruniversity.in",
+      "contactPhone": "+91 33 2414 6002",
+      "principalName": "Prof. Chiranjib Bhattacharjee",
+      "complianceScore": 90,
+      "riskLevel": "Low",
+      "riskProbability": 0.09,
+      "riskReasons": [
+        "High patent filing rate",
+        "Minor delayed submission on student feedback portal"
+      ],
+      "intakeApproved": 1350,
+      "totalFaculty": 172,
+      "totalStudents": 2700,
+      "builtUpAreaSqM": 65000,
+      "labCount": 80,
+      "libraryBooks": 125000,
+      "fireNocValidTill": "2027-05-15",
+      "lastInspectionDate": "2025-11-20",
+      "status": "Approved",
+      "sources": {
+        "regionalOffice": true,
+        "inspectionCommittee": true,
+        "instituteSelfReported": true,
+        "complaintCell": false
+      }
+    },
+    {
+      "id": "1-1567667844",
+      "name": "Malaviya National Institute of Technology (MNIT) Jaipur",
+      "code": "MNIT-RJ-01",
+      "state": "Rajasthan",
+      "region": "North-West",
+      "discipline": "Engineering & Technology",
+      "type": "Government",
+      "establishedYear": 1963,
+      "address": "Jawahar Lal Nehru Marg, Jhalana Doongri, Jaipur, Rajasthan 302017",
+      "contactEmail": "director@mnit.ac.in",
+      "contactPhone": "+91 141 252 9087",
+      "principalName": "Prof. N. P. Padhy",
+      "complianceScore": 95,
+      "riskLevel": "Low",
+      "riskProbability": 0.05,
+      "riskReasons": [
+        "Green energy campus accreditation",
+        "Robust statutory portal compliance"
+      ],
+      "intakeApproved": 1100,
+      "totalFaculty": 138,
+      "totalStudents": 2200,
+      "builtUpAreaSqM": 70000,
+      "labCount": 65,
+      "libraryBooks": 95000,
+      "fireNocValidTill": "2027-08-30",
+      "lastInspectionDate": "2025-10-10",
+      "status": "Approved",
+      "sources": {
+        "regionalOffice": true,
+        "inspectionCommittee": true,
+        "instituteSelfReported": true,
+        "complaintCell": false
+      }
+    },
+    {
+      "id": "1-1678778855",
+      "name": "L.D. College of Engineering, Ahmedabad",
+      "code": "LDCE-GJ-01",
+      "state": "Gujarat",
+      "region": "Central",
+      "discipline": "Engineering & Technology",
+      "type": "Government",
+      "establishedYear": 1948,
+      "address": "Opp Gujarat University, Navrangpura, Ahmedabad, Gujarat 380015",
+      "contactEmail": "ldce-ahd-dte@gujarat.gov.in",
+      "contactPhone": "+91 79 2630 2887",
+      "principalName": "Dr. Nilay Bateriwala",
+      "complianceScore": 87,
+      "riskLevel": "Low",
+      "riskProbability": 0.14,
+      "riskReasons": [
+        "Pending verification of new mechatronics lab equipment serials"
+      ],
+      "intakeApproved": 1400,
+      "totalFaculty": 142,
+      "totalStudents": 2800,
+      "builtUpAreaSqM": 48000,
+      "labCount": 58,
+      "libraryBooks": 88000,
+      "fireNocValidTill": "2026-12-30",
+      "lastInspectionDate": "2025-08-05",
+      "status": "Approved",
+      "sources": {
+        "regionalOffice": true,
+        "inspectionCommittee": true,
+        "instituteSelfReported": true,
+        "complaintCell": false
+      }
+    },
+    {
+      "id": "1-1789889866",
+      "name": "College of Engineering, Trivandrum (CET)",
+      "code": "CET-KL-01",
+      "state": "Kerala",
+      "region": "South-Western",
+      "discipline": "Engineering & Technology",
+      "type": "Government",
+      "establishedYear": 1939,
+      "address": "Engineering College P.O, Sreekaryam, Thiruvananthapuram, Kerala 695016",
+      "contactEmail": "principal@cet.ac.in",
+      "contactPhone": "+91 471 259 8370",
+      "principalName": "Dr. V. Suresh Babu",
+      "complianceScore": 93,
+      "riskLevel": "Low",
+      "riskProbability": 0.08,
+      "riskReasons": [
+        "Active student grievance portal with zero pending resolutions"
+      ],
+      "intakeApproved": 1050,
+      "totalFaculty": 135,
+      "totalStudents": 2100,
+      "builtUpAreaSqM": 54000,
+      "labCount": 60,
+      "libraryBooks": 92000,
+      "fireNocValidTill": "2027-03-10",
+      "lastInspectionDate": "2025-09-28",
+      "status": "Approved",
+      "sources": {
+        "regionalOffice": true,
+        "inspectionCommittee": true,
+        "instituteSelfReported": true,
+        "complaintCell": false
+      }
+    },
+    {
+      "id": "1-1890990877",
+      "name": "Madhav Institute of Technology & Science (MITS) Gwalior",
+      "code": "MITS-MP-01",
+      "state": "Madhya Pradesh",
+      "region": "Central",
+      "discipline": "Engineering & Technology",
+      "type": "Government-Aided",
+      "establishedYear": 1957,
+      "address": "Race Course Rd, Gola ka Mandir, Gwalior, Madhya Pradesh 474005",
+      "contactEmail": "director@mitsgwalior.in",
+      "contactPhone": "+91 751 240 9300",
+      "principalName": "Dr. R. K. Pandit",
+      "complianceScore": 64,
+      "riskLevel": "Critical",
+      "riskProbability": 0.74,
+      "riskReasons": [
+        "Fire NOC expired 22 days ago",
+        "Cadre ratio short by 4 Associate Professors"
+      ],
+      "intakeApproved": 850,
+      "totalFaculty": 68,
+      "totalStudents": 1700,
+      "builtUpAreaSqM": 32000,
+      "labCount": 36,
+      "libraryBooks": 45000,
+      "fireNocValidTill": "2026-10-05",
+      "lastInspectionDate": "2025-03-12",
+      "status": "Deficiency Issued",
+      "sources": {
+        "regionalOffice": true,
+        "inspectionCommittee": true,
+        "instituteSelfReported": true,
+        "complaintCell": true
+      }
+    },
+    {
+      "id": "1-1901101888",
+      "name": "Thapar Institute of Engineering and Technology, Patiala",
+      "code": "TIET-PB-01",
+      "state": "Punjab",
+      "region": "North-West",
+      "discipline": "Engineering & Technology",
+      "type": "Deemed-to-be University",
+      "establishedYear": 1956,
+      "address": "Bhadson Rd, Adarsh Nagar, Prem Nagar, Patiala, Punjab 147004",
+      "contactEmail": "director@thapar.edu",
+      "contactPhone": "+91 175 239 3021",
+      "principalName": "Dr. Padmakumar Nair",
+      "complianceScore": 91,
+      "riskLevel": "Low",
+      "riskProbability": 0.1,
+      "riskReasons": [
+        "International accreditation standards maintained"
+      ],
+      "intakeApproved": 1800,
+      "totalFaculty": 210,
+      "totalStudents": 3600,
+      "builtUpAreaSqM": 80000,
+      "labCount": 88,
+      "libraryBooks": 130000,
+      "fireNocValidTill": "2027-07-20",
+      "lastInspectionDate": "2025-11-04",
+      "status": "Approved",
+      "sources": {
+        "regionalOffice": true,
+        "inspectionCommittee": true,
+        "instituteSelfReported": true,
+        "complaintCell": false
+      }
+    },
+    {
+      "id": "1-2012212899",
+      "name": "Institute of Chemical Technology (ICT), Mumbai",
+      "code": "ICT-MH-01",
+      "state": "Maharashtra",
+      "region": "Western",
+      "discipline": "Engineering & Technology",
+      "type": "Deemed-to-be University",
+      "establishedYear": 1933,
+      "address": "Nathalal Parekh Marg, Matunga, Mumbai, Maharashtra 400019",
+      "contactEmail": "vc@ictmumbai.edu.in",
+      "contactPhone": "+91 22 3361 1111",
+      "principalName": "Prof. Aniruddha B. Pandit",
+      "complianceScore": 98,
+      "riskLevel": "Low",
+      "riskProbability": 0.02,
+      "riskReasons": [
+        "Highest category AICTE diamond rating",
+        "Zero non-compliances"
+      ],
+      "intakeApproved": 600,
+      "totalFaculty": 95,
+      "totalStudents": 1200,
+      "builtUpAreaSqM": 32000,
+      "labCount": 50,
+      "libraryBooks": 68000,
+      "fireNocValidTill": "2027-11-30",
+      "lastInspectionDate": "2025-10-25",
+      "status": "Approved",
+      "sources": {
+        "regionalOffice": true,
+        "inspectionCommittee": true,
+        "instituteSelfReported": true,
+        "complaintCell": false
+      }
+    },
+    {
+      "id": "1-2123323900",
+      "name": "Birla Institute of Technology (BIT), Mesra, Ranchi",
+      "code": "BITM-JH-01",
+      "state": "Jharkhand",
+      "region": "Eastern",
+      "discipline": "Engineering & Technology",
+      "type": "Deemed-to-be University",
+      "establishedYear": 1955,
+      "address": "Mesra, Ranchi, Jharkhand 835215",
+      "contactEmail": "vc@bitmesra.ac.in",
+      "contactPhone": "+91 651 227 5444",
+      "principalName": "Dr. Indranil Manna",
+      "complianceScore": 89,
+      "riskLevel": "Low",
+      "riskProbability": 0.12,
+      "riskReasons": [
+        "Remote campus high bandwidth network audit passed"
+      ],
+      "intakeApproved": 1200,
+      "totalFaculty": 140,
+      "totalStudents": 2400,
+      "builtUpAreaSqM": 62000,
+      "labCount": 66,
+      "libraryBooks": 99000,
+      "fireNocValidTill": "2027-01-15",
+      "lastInspectionDate": "2025-08-14",
+      "status": "Approved",
+      "sources": {
+        "regionalOffice": true,
+        "inspectionCommittee": true,
+        "instituteSelfReported": true,
+        "complaintCell": false
+      }
+    },
+    {
+      "id": "1-2234434911",
+      "name": "BMS College of Engineering, Bengaluru",
+      "code": "BMSCE-KA-02",
+      "state": "Karnataka",
+      "region": "South-Western",
+      "discipline": "Engineering & Technology",
+      "type": "Private Self-Financing",
+      "establishedYear": 1946,
+      "address": "Bull Temple Rd, Basavanagudi, Bengaluru, Karnataka 560019",
+      "contactEmail": "principal@bmsce.ac.in",
+      "contactPhone": "+91 80 2662 2130",
+      "principalName": "Dr. S. Muralidhara",
+      "complianceScore": 92,
+      "riskLevel": "Low",
+      "riskProbability": 0.08,
+      "riskReasons": [
+        "Autonomous syllabus alignment with AICTE Model Curriculum"
+      ],
+      "intakeApproved": 1500,
+      "totalFaculty": 175,
+      "totalStudents": 3000,
+      "builtUpAreaSqM": 58000,
+      "labCount": 72,
+      "libraryBooks": 105000,
+      "fireNocValidTill": "2027-04-10",
+      "lastInspectionDate": "2025-11-18",
+      "status": "Approved",
+      "sources": {
+        "regionalOffice": true,
+        "inspectionCommittee": true,
+        "instituteSelfReported": true,
+        "complaintCell": false
+      }
+    },
+    {
+      "id": "1-2345545922",
+      "name": "College of Engineering Guindy, Anna University, Chennai",
+      "code": "CEG-TN-02",
+      "state": "Tamil Nadu",
+      "region": "Southern",
+      "discipline": "Engineering & Technology",
+      "type": "Government",
+      "establishedYear": 1794,
+      "address": "Sardar Patel Rd, Guindy, Chennai, Tamil Nadu 600025",
+      "contactEmail": "deanceg@annauniv.edu",
+      "contactPhone": "+91 44 2235 8491",
+      "principalName": "Dr. L. Suganthi",
+      "complianceScore": 95,
+      "riskLevel": "Low",
+      "riskProbability": 0.05,
+      "riskReasons": [
+        "India's oldest engineering college with top-tier compliance metrics"
+      ],
+      "intakeApproved": 1600,
+      "totalFaculty": 195,
+      "totalStudents": 3200,
+      "builtUpAreaSqM": 82000,
+      "labCount": 85,
+      "libraryBooks": 140000,
+      "fireNocValidTill": "2027-08-15",
+      "lastInspectionDate": "2025-10-02",
+      "status": "Approved",
+      "sources": {
+        "regionalOffice": true,
+        "inspectionCommittee": true,
+        "instituteSelfReported": true,
+        "complaintCell": false
+      }
+    },
+    {
+      "id": "1-2456656933",
+      "name": "Andhra University College of Engineering, Visakhapatnam",
+      "code": "AUCE-AP-01",
+      "state": "Andhra Pradesh",
+      "region": "South-Central",
+      "discipline": "Engineering & Technology",
+      "type": "Government",
+      "establishedYear": 1955,
+      "address": "Waltair Junction, Visakhapatnam, Andhra Pradesh 530003",
+      "contactEmail": "principal@auce.ac.in",
+      "contactPhone": "+91 891 284 4801",
+      "principalName": "Prof. P. Srinivasa Rao",
+      "complianceScore": 74,
+      "riskLevel": "Medium",
+      "riskProbability": 0.44,
+      "riskReasons": [
+        "Library physical books replenishment delayed",
+        "Digital repository update pending"
+      ],
+      "intakeApproved": 950,
+      "totalFaculty": 88,
+      "totalStudents": 1900,
+      "builtUpAreaSqM": 41000,
+      "labCount": 46,
+      "libraryBooks": 58000,
+      "fireNocValidTill": "2026-12-20",
+      "lastInspectionDate": "2025-06-25",
+      "status": "Under Scrutiny",
+      "sources": {
+        "regionalOffice": true,
+        "inspectionCommittee": true,
+        "instituteSelfReported": true,
+        "complaintCell": false
+      }
+    },
+    {
+      "id": "1-2567767944",
+      "name": "University College of Engineering, Osmania University, Hyderabad",
+      "code": "UCEOU-TS-02",
+      "state": "Telangana",
+      "region": "South-Central",
+      "discipline": "Engineering & Technology",
+      "type": "Government",
+      "establishedYear": 1929,
+      "address": "Osmania University Main Rd, Amberpet, Hyderabad, Telangana 500007",
+      "contactEmail": "principal@uceou.edu",
+      "contactPhone": "+91 40 2709 8254",
+      "principalName": "Prof. S. Sriram Kumar",
+      "complianceScore": 89,
+      "riskLevel": "Low",
+      "riskProbability": 0.11,
+      "riskReasons": [
+        "Slight lag in submission of audited balance sheet for 2024-25"
+      ],
+      "intakeApproved": 900,
+      "totalFaculty": 104,
+      "totalStudents": 1800,
+      "builtUpAreaSqM": 43000,
+      "labCount": 48,
+      "libraryBooks": 71000,
+      "fireNocValidTill": "2027-02-28",
+      "lastInspectionDate": "2025-09-08",
+      "status": "Approved",
+      "sources": {
+        "regionalOffice": true,
+        "inspectionCommittee": true,
+        "instituteSelfReported": true,
+        "complaintCell": false
+      }
+    },
+    {
+      "id": "1-2678878955",
+      "name": "Government College of Engineering, Salem",
+      "code": "GCES-TN-03",
+      "state": "Tamil Nadu",
+      "region": "Southern",
+      "discipline": "Engineering & Technology",
+      "type": "Government",
+      "establishedYear": 1966,
+      "address": "Bangalore Highways, Karuppur, Salem, Tamil Nadu 636011",
+      "contactEmail": "principal@gcesalem.edu.in",
+      "contactPhone": "+91 427 234 6157",
+      "principalName": "Dr. R. Vijayan",
+      "complianceScore": 71,
+      "riskLevel": "High",
+      "riskProbability": 0.58,
+      "riskReasons": [
+        "Faculty to student ratio 1:24 (threshold is 1:20)",
+        "Lab safety shower units non-functional"
+      ],
+      "intakeApproved": 600,
+      "totalFaculty": 42,
+      "totalStudents": 1200,
+      "builtUpAreaSqM": 28000,
+      "labCount": 32,
+      "libraryBooks": 42000,
+      "fireNocValidTill": "2026-11-20",
+      "lastInspectionDate": "2025-05-18",
+      "status": "Deficiency Issued",
+      "sources": {
+        "regionalOffice": true,
+        "inspectionCommittee": true,
+        "instituteSelfReported": true,
+        "complaintCell": true
+      }
+    },
+    {
+      "id": "1-2789989966",
+      "name": "Apex Global Institute of Technology & Management, Greater Noida",
+      "code": "AGITM-UP-01",
+      "state": "Uttar Pradesh",
+      "region": "Northern",
+      "discipline": "Engineering & Technology",
+      "type": "Private Self-Financing",
+      "establishedYear": 2012,
+      "address": "Knowledge Park III, Greater Noida, Uttar Pradesh 201306",
+      "contactEmail": "admin@apextech.edu.in",
+      "contactPhone": "+91 120 456 7890",
+      "principalName": "Dr. Sunil Aggarwal",
+      "complianceScore": 49,
+      "riskLevel": "Critical",
+      "riskProbability": 0.86,
+      "riskReasons": [
+        "Severe faculty shortage (FSR 1:32)",
+        "Reused building clearance certificate hash matches another campus",
+        "Public grievance regarding unauthorized fee collection"
+      ],
+      "intakeApproved": 480,
+      "totalFaculty": 26,
+      "totalStudents": 960,
+      "builtUpAreaSqM": 16000,
+      "labCount": 18,
+      "libraryBooks": 18000,
+      "fireNocValidTill": "2026-08-15",
+      "lastInspectionDate": "2025-02-10",
+      "status": "Deficiency Issued",
+      "sources": {
+        "regionalOffice": true,
+        "inspectionCommittee": true,
+        "instituteSelfReported": true,
+        "complaintCell": true
+      }
+    }
+  ],
+  "applications": [
+    {
+      "id": "APP-2026-1001",
+      "institutionId": "1-1029384711",
+      "institutionName": "College of Engineering, Pune (COEP Technological Univ)",
+      "academicYear": "2026-2027",
+      "applicationType": "Extension of Approval (EoA)",
+      "stage": "Decision",
+      "status": "Approved",
+      "assignedOfficer": "Dr. Rajesh Sharma (RO Western)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 14,
+      "submissionDate": "2026-09-10",
+      "lastUpdated": "2026-10-22",
+      "stepProgress": 6,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-10 10:14",
+          "action": "Application Submitted",
+          "actor": "Institute Registrar",
+          "notes": "Submitted online with fee receipt"
+        },
+        {
+          "timestamp": "2026-09-15 14:30",
+          "action": "Document Check Passed",
+          "actor": "Automated OCR Engine",
+          "notes": "14 of 14 statutory deeds verified"
+        },
+        {
+          "timestamp": "2026-09-28 11:20",
+          "action": "Scrutiny Approved",
+          "actor": "Dr. Rajesh Sharma",
+          "notes": "Zero deficiencies noted"
+        },
+        {
+          "timestamp": "2026-10-18 16:45",
+          "action": "Executive Committee Cleared",
+          "actor": "Standing Hearing Committee",
+          "notes": "Approved for 2026-27"
+        },
+        {
+          "timestamp": "2026-10-22 09:00",
+          "action": "Approval Letter Issued",
+          "actor": "Member Secretary AICTE",
+          "notes": "Digital signature affixed with secure QR"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Engineering",
+          "level": "UG",
+          "currentIntake": 180,
+          "proposedIntake": 180
+        },
+        {
+          "name": "Electronics & Telecommunication",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Mechanical Engineering",
+          "level": "UG",
+          "currentIntake": 150,
+          "proposedIntake": 150
+        },
+        {
+          "name": "Artificial Intelligence & Robotics",
+          "level": "PG",
+          "currentIntake": 30,
+          "proposedIntake": 30
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-COEP-2026-001",
+      "approvalLetterUrl": "/api/applications/APP-2026-1001/letter"
+    },
+    {
+      "id": "APP-2026-1002",
+      "institutionId": "1-6079889766",
+      "institutionName": "Sardar Patel College of Engineering, Mumbai",
+      "academicYear": "2026-2027",
+      "applicationType": "Increase in Intake",
+      "stage": "Scrutiny",
+      "status": "Deficiency Raised",
+      "assignedOfficer": "Dr. Rajesh Sharma (RO Western)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": -2,
+      "submissionDate": "2026-09-24",
+      "lastUpdated": "2026-10-25",
+      "stepProgress": 3,
+      "deficiencies": [
+        {
+          "id": "DEF-2026-001",
+          "ruleId": "APH-R01",
+          "description": "Ghost Faculty Alert: Faculty Dr. Ramesh Verma (PAN: ABCDE1234F) is simultaneously declared as regular Professor in College of Engineering Pune records.",
+          "raisedDate": "2026-10-20",
+          "status": "Open",
+          "institutionResponse": "Clarification: Dr. Ramesh Verma was relieved on 31-July-2025. Relieving deed uploaded.",
+          "responseDate": "2026-10-24",
+          "officerNote": "Pending Regional Officer re-verification of Relieving Certificate"
+        },
+        {
+          "id": "DEF-2026-002",
+          "ruleId": "APH-R03",
+          "description": "Municipal Fire NOC expiring on 14-Nov-2026; renewal acknowledgement not submitted.",
+          "raisedDate": "2026-10-20",
+          "status": "Open"
+        }
+      ],
+      "history": [
+        {
+          "timestamp": "2026-09-24 16:40",
+          "action": "Submitted",
+          "actor": "College Admin",
+          "notes": "Applied for 60 seat intake expansion in Civil Engineering"
+        },
+        {
+          "timestamp": "2026-10-02 11:15",
+          "action": "Document Check",
+          "actor": "AICTE Automated Check",
+          "notes": "Flagged potential duplicate faculty PAN"
+        },
+        {
+          "timestamp": "2026-10-20 15:00",
+          "action": "Deficiency Issued",
+          "actor": "Dr. Rajesh Sharma",
+          "notes": "15-day rectification window opened"
+        },
+        {
+          "timestamp": "2026-10-24 18:20",
+          "action": "Response Uploaded",
+          "actor": "College Admin",
+          "notes": "Uploaded affidavit & relieving certificate"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Civil Engineering",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Mechanical Engineering",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 60
+        },
+        {
+          "name": "Electrical Engineering",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 60
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-SPCE-2026-002"
+    },
+    {
+      "id": "APP-2026-1003",
+      "institutionId": "1-3049586733",
+      "institutionName": "RV College of Engineering, Bengaluru",
+      "academicYear": "2026-2027",
+      "applicationType": "New Course Introduction",
+      "stage": "Committee Review",
+      "status": "In Review",
+      "assignedOfficer": "Smt. Kavitha Nair (RO South-West)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 5,
+      "submissionDate": "2026-10-01",
+      "lastUpdated": "2026-10-26",
+      "stepProgress": 5,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-10-01 11:00",
+          "action": "Submitted",
+          "actor": "RVCE Principal",
+          "notes": "Application for M.Tech Quantum Computing & Cyber Physical Systems"
+        },
+        {
+          "timestamp": "2026-10-07 14:20",
+          "action": "Document Verification",
+          "actor": "Officer Kavitha Nair",
+          "notes": "All certificates validated"
+        },
+        {
+          "timestamp": "2026-10-18 10:30",
+          "action": "Virtual Inspection Completed",
+          "actor": "Expert Inspection Team",
+          "notes": "Recommended with full laboratory compliance"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Quantum Computing & Information Security",
+          "level": "PG",
+          "currentIntake": 0,
+          "proposedIntake": 30
+        },
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 240,
+          "proposedIntake": 240
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-RVCE-2026-003"
+    },
+    {
+      "id": "APP-2026-1004",
+      "institutionId": "1-2789989966",
+      "institutionName": "Apex Global Institute of Technology & Management, Greater Noida",
+      "academicYear": "2026-2027",
+      "applicationType": "Extension of Approval (EoA)",
+      "stage": "Committee Review",
+      "status": "Deficiency Raised",
+      "assignedOfficer": "Dr. Amitabh Sen (Scrutiny Committee)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": -5,
+      "submissionDate": "2026-09-18",
+      "lastUpdated": "2026-10-26",
+      "stepProgress": 5,
+      "deficiencies": [
+        {
+          "id": "DEF-2026-003",
+          "ruleId": "APH-R03",
+          "description": "Fire NOC expired on 15-Aug-2026. Campus operating without statutory local fire department certificate.",
+          "raisedDate": "2026-09-25",
+          "status": "Open"
+        },
+        {
+          "id": "DEF-2026-004",
+          "ruleId": "APH-R01",
+          "description": "Severe faculty deficit: Required faculty 48, verified on roll only 26. Ratio 1:36 violates clause 7.1.",
+          "raisedDate": "2026-09-25",
+          "status": "Open"
+        }
+      ],
+      "history": [
+        {
+          "timestamp": "2026-09-18 12:00",
+          "action": "Submitted",
+          "actor": "College Admin",
+          "notes": "Routine EoA application"
+        },
+        {
+          "timestamp": "2026-09-25 15:30",
+          "action": "Show Cause Issued",
+          "actor": "Dr. Amitabh Sen",
+          "notes": "Hearing mandated on 30-Oct-2026"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 180,
+          "proposedIntake": 180
+        },
+        {
+          "name": "Mechanical Engineering",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 60
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-APEX-2026-004"
+    },
+    {
+      "id": "APP-2026-1005",
+      "institutionId": "1-1890990877",
+      "institutionName": "Madhav Institute of Technology & Science (MITS) Gwalior",
+      "academicYear": "2026-2027",
+      "applicationType": "Extension of Approval (EoA)",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Er. Priya Patel (Inspection Head)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 2,
+      "submissionDate": "2026-09-29",
+      "lastUpdated": "2026-10-27",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-29 14:00",
+          "action": "Submitted",
+          "actor": "Registrar MITS",
+          "notes": "Applied for EoA 2026-27"
+        },
+        {
+          "timestamp": "2026-10-12 11:00",
+          "action": "Physical Inspection Triggered",
+          "actor": "RO Central",
+          "notes": "High risk score flagged physical inspection requirement"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Electrical Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Information Technology",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-MITS-2026-005"
+    },
+    {
+      "id": "APP-2026-1006",
+      "institutionId": "1-6079889766",
+      "institutionName": "Sardar Patel College of Engineering, Mumbai",
+      "academicYear": "2026-2027",
+      "applicationType": "New Course Introduction",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Amitabh Sen (Scrutiny Committee)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 3,
+      "submissionDate": "2026-09-16",
+      "lastUpdated": "2026-10-21",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-16 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Amitabh Sen (Scrutiny Committee)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-SPCE-MH-03-2026-006"
+    },
+    {
+      "id": "APP-2026-1007",
+      "institutionId": "1-7089990777",
+      "institutionName": "Bombay College of Pharmacy, Kalina, Mumbai",
+      "academicYear": "2026-2027",
+      "applicationType": "Increase in Intake",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Er. Priya Patel (Inspection Head)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 4,
+      "submissionDate": "2026-09-17",
+      "lastUpdated": "2026-10-22",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-17 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Er. Priya Patel (Inspection Head)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-BCP-MH-01-2026-007"
+    },
+    {
+      "id": "APP-2026-1008",
+      "institutionId": "1-8091001788",
+      "institutionName": "National Institute of Pharmaceutical Education & Research (NIPER)",
+      "academicYear": "2026-2027",
+      "applicationType": "New Institution Approval",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Rajesh Sharma (RO Western)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 5,
+      "submissionDate": "2026-09-18",
+      "lastUpdated": "2026-10-23",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-18 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Rajesh Sharma (RO Western)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-NIPER-PB-01-2026-008"
+    },
+    {
+      "id": "APP-2026-1009",
+      "institutionId": "1-9102112799",
+      "institutionName": "Jamnalal Bajaj Institute of Management Studies (JBIMS)",
+      "academicYear": "2026-2027",
+      "applicationType": "Closure of Course",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Smt. Kavitha Nair (RO South-West)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 6,
+      "submissionDate": "2026-09-19",
+      "lastUpdated": "2026-10-24",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-19 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Smt. Kavitha Nair (RO South-West)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-JBIMS-MH-01-2026-009"
+    },
+    {
+      "id": "APP-2026-1010",
+      "institutionId": "1-1123223800",
+      "institutionName": "Faculty of Management Studies (FMS), University of Delhi",
+      "academicYear": "2026-2027",
+      "applicationType": "Extension of Approval (EoA)",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Amitabh Sen (Scrutiny Committee)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 7,
+      "submissionDate": "2026-09-20",
+      "lastUpdated": "2026-10-25",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-20 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Amitabh Sen (Scrutiny Committee)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-FMS-DL-01-2026-010"
+    },
+    {
+      "id": "APP-2026-1011",
+      "institutionId": "1-1234334811",
+      "institutionName": "Government Polytechnic, Pune",
+      "academicYear": "2026-2027",
+      "applicationType": "New Course Introduction",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Er. Priya Patel (Inspection Head)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 8,
+      "submissionDate": "2026-09-21",
+      "lastUpdated": "2026-10-26",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-21 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Er. Priya Patel (Inspection Head)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-GPP-MH-01-2026-011"
+    },
+    {
+      "id": "APP-2026-1012",
+      "institutionId": "1-1345445822",
+      "institutionName": "Government Polytechnic, Hyderabad",
+      "academicYear": "2026-2027",
+      "applicationType": "Increase in Intake",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Rajesh Sharma (RO Western)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 9,
+      "submissionDate": "2026-09-22",
+      "lastUpdated": "2026-10-15",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-22 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Rajesh Sharma (RO Western)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-GPH-TS-01-2026-012"
+    },
+    {
+      "id": "APP-2026-1013",
+      "institutionId": "1-1456556833",
+      "institutionName": "Jadavpur University Faculty of Engg & Tech, Kolkata",
+      "academicYear": "2026-2027",
+      "applicationType": "New Institution Approval",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Smt. Kavitha Nair (RO South-West)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 10,
+      "submissionDate": "2026-09-23",
+      "lastUpdated": "2026-10-16",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-23 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Smt. Kavitha Nair (RO South-West)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-JU-WB-01-2026-013"
+    },
+    {
+      "id": "APP-2026-1014",
+      "institutionId": "1-1567667844",
+      "institutionName": "Malaviya National Institute of Technology (MNIT) Jaipur",
+      "academicYear": "2026-2027",
+      "applicationType": "Closure of Course",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Amitabh Sen (Scrutiny Committee)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 11,
+      "submissionDate": "2026-09-24",
+      "lastUpdated": "2026-10-17",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-24 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Amitabh Sen (Scrutiny Committee)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-MNIT-RJ-01-2026-014"
+    },
+    {
+      "id": "APP-2026-1015",
+      "institutionId": "1-1678778855",
+      "institutionName": "L.D. College of Engineering, Ahmedabad",
+      "academicYear": "2026-2027",
+      "applicationType": "Extension of Approval (EoA)",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Er. Priya Patel (Inspection Head)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": -3,
+      "submissionDate": "2026-09-25",
+      "lastUpdated": "2026-10-18",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-25 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Er. Priya Patel (Inspection Head)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-LDCE-GJ-01-2026-015"
+    },
+    {
+      "id": "APP-2026-1016",
+      "institutionId": "1-1789889866",
+      "institutionName": "College of Engineering, Trivandrum (CET)",
+      "academicYear": "2026-2027",
+      "applicationType": "New Course Introduction",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Rajesh Sharma (RO Western)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": -2,
+      "submissionDate": "2026-09-26",
+      "lastUpdated": "2026-10-19",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-26 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Rajesh Sharma (RO Western)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-CET-KL-01-2026-016"
+    },
+    {
+      "id": "APP-2026-1017",
+      "institutionId": "1-1890990877",
+      "institutionName": "Madhav Institute of Technology & Science (MITS) Gwalior",
+      "academicYear": "2026-2027",
+      "applicationType": "Increase in Intake",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Smt. Kavitha Nair (RO South-West)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": -1,
+      "submissionDate": "2026-09-27",
+      "lastUpdated": "2026-10-20",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-27 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Smt. Kavitha Nair (RO South-West)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-MITS-MP-01-2026-017"
+    },
+    {
+      "id": "APP-2026-1018",
+      "institutionId": "1-1901101888",
+      "institutionName": "Thapar Institute of Engineering and Technology, Patiala",
+      "academicYear": "2026-2027",
+      "applicationType": "New Institution Approval",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Amitabh Sen (Scrutiny Committee)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 0,
+      "submissionDate": "2026-09-28",
+      "lastUpdated": "2026-10-21",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-28 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Amitabh Sen (Scrutiny Committee)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-TIET-PB-01-2026-018"
+    },
+    {
+      "id": "APP-2026-1019",
+      "institutionId": "1-2012212899",
+      "institutionName": "Institute of Chemical Technology (ICT), Mumbai",
+      "academicYear": "2026-2027",
+      "applicationType": "Closure of Course",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Er. Priya Patel (Inspection Head)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 1,
+      "submissionDate": "2026-09-29",
+      "lastUpdated": "2026-10-22",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-29 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Er. Priya Patel (Inspection Head)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-ICT-MH-01-2026-019"
+    },
+    {
+      "id": "APP-2026-1020",
+      "institutionId": "1-2123323900",
+      "institutionName": "Birla Institute of Technology (BIT), Mesra, Ranchi",
+      "academicYear": "2026-2027",
+      "applicationType": "Extension of Approval (EoA)",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Rajesh Sharma (RO Western)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 2,
+      "submissionDate": "2026-09-10",
+      "lastUpdated": "2026-10-23",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-10 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Rajesh Sharma (RO Western)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-BITM-JH-01-2026-020"
+    },
+    {
+      "id": "APP-2026-1021",
+      "institutionId": "1-2234434911",
+      "institutionName": "BMS College of Engineering, Bengaluru",
+      "academicYear": "2026-2027",
+      "applicationType": "New Course Introduction",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Smt. Kavitha Nair (RO South-West)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 3,
+      "submissionDate": "2026-09-11",
+      "lastUpdated": "2026-10-24",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-11 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Smt. Kavitha Nair (RO South-West)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-BMSCE-KA-02-2026-021"
+    },
+    {
+      "id": "APP-2026-1022",
+      "institutionId": "1-2345545922",
+      "institutionName": "College of Engineering Guindy, Anna University, Chennai",
+      "academicYear": "2026-2027",
+      "applicationType": "Increase in Intake",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Amitabh Sen (Scrutiny Committee)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 4,
+      "submissionDate": "2026-09-12",
+      "lastUpdated": "2026-10-25",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-12 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Amitabh Sen (Scrutiny Committee)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-CEG-TN-02-2026-022"
+    },
+    {
+      "id": "APP-2026-1023",
+      "institutionId": "1-2456656933",
+      "institutionName": "Andhra University College of Engineering, Visakhapatnam",
+      "academicYear": "2026-2027",
+      "applicationType": "New Institution Approval",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Er. Priya Patel (Inspection Head)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 5,
+      "submissionDate": "2026-09-13",
+      "lastUpdated": "2026-10-26",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-13 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Er. Priya Patel (Inspection Head)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-AUCE-AP-01-2026-023"
+    },
+    {
+      "id": "APP-2026-1024",
+      "institutionId": "1-2567767944",
+      "institutionName": "University College of Engineering, Osmania University, Hyderabad",
+      "academicYear": "2026-2027",
+      "applicationType": "Closure of Course",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Rajesh Sharma (RO Western)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 6,
+      "submissionDate": "2026-09-14",
+      "lastUpdated": "2026-10-15",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-14 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Rajesh Sharma (RO Western)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-UCEOU-TS-02-2026-024"
+    },
+    {
+      "id": "APP-2026-1025",
+      "institutionId": "1-2678878955",
+      "institutionName": "Government College of Engineering, Salem",
+      "academicYear": "2026-2027",
+      "applicationType": "Extension of Approval (EoA)",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Smt. Kavitha Nair (RO South-West)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 7,
+      "submissionDate": "2026-09-15",
+      "lastUpdated": "2026-10-16",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-15 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Smt. Kavitha Nair (RO South-West)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-GCES-TN-03-2026-025"
+    },
+    {
+      "id": "APP-2026-1026",
+      "institutionId": "1-2789989966",
+      "institutionName": "Apex Global Institute of Technology & Management, Greater Noida",
+      "academicYear": "2026-2027",
+      "applicationType": "New Course Introduction",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Amitabh Sen (Scrutiny Committee)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 8,
+      "submissionDate": "2026-09-16",
+      "lastUpdated": "2026-10-17",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-16 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Amitabh Sen (Scrutiny Committee)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-AGITM-UP-01-2026-026"
+    },
+    {
+      "id": "APP-2026-1027",
+      "institutionId": "1-1029384711",
+      "institutionName": "College of Engineering, Pune (COEP Technological Univ)",
+      "academicYear": "2026-2027",
+      "applicationType": "Increase in Intake",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Er. Priya Patel (Inspection Head)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 9,
+      "submissionDate": "2026-09-17",
+      "lastUpdated": "2026-10-18",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-17 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Er. Priya Patel (Inspection Head)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-COEP-MH-01-2026-027"
+    },
+    {
+      "id": "APP-2026-1028",
+      "institutionId": "1-2039485722",
+      "institutionName": "Veermata Jijabai Technological Institute (VJTI) Mumbai",
+      "academicYear": "2026-2027",
+      "applicationType": "New Institution Approval",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Rajesh Sharma (RO Western)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 10,
+      "submissionDate": "2026-09-18",
+      "lastUpdated": "2026-10-19",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-18 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Rajesh Sharma (RO Western)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-VJTI-MH-02-2026-028"
+    },
+    {
+      "id": "APP-2026-1029",
+      "institutionId": "1-3049586733",
+      "institutionName": "RV College of Engineering, Bengaluru",
+      "academicYear": "2026-2027",
+      "applicationType": "Closure of Course",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Smt. Kavitha Nair (RO South-West)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 11,
+      "submissionDate": "2026-09-19",
+      "lastUpdated": "2026-10-20",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-19 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Smt. Kavitha Nair (RO South-West)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-RVCE-KA-01-2026-029"
+    },
+    {
+      "id": "APP-2026-1030",
+      "institutionId": "1-4059687744",
+      "institutionName": "PSG College of Technology, Coimbatore",
+      "academicYear": "2026-2027",
+      "applicationType": "Extension of Approval (EoA)",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Amitabh Sen (Scrutiny Committee)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": -3,
+      "submissionDate": "2026-09-20",
+      "lastUpdated": "2026-10-21",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-20 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Amitabh Sen (Scrutiny Committee)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-PSGCT-TN-01-2026-030"
+    },
+    {
+      "id": "APP-2026-1031",
+      "institutionId": "1-5069788755",
+      "institutionName": "Delhi Technological University (DTU), Delhi",
+      "academicYear": "2026-2027",
+      "applicationType": "New Course Introduction",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Er. Priya Patel (Inspection Head)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": -2,
+      "submissionDate": "2026-09-21",
+      "lastUpdated": "2026-10-22",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-21 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Er. Priya Patel (Inspection Head)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-DTU-DL-01-2026-031"
+    },
+    {
+      "id": "APP-2026-1032",
+      "institutionId": "1-6079889766",
+      "institutionName": "Sardar Patel College of Engineering, Mumbai",
+      "academicYear": "2026-2027",
+      "applicationType": "Increase in Intake",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Rajesh Sharma (RO Western)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": -1,
+      "submissionDate": "2026-09-22",
+      "lastUpdated": "2026-10-23",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-22 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Rajesh Sharma (RO Western)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-SPCE-MH-03-2026-032"
+    },
+    {
+      "id": "APP-2026-1033",
+      "institutionId": "1-7089990777",
+      "institutionName": "Bombay College of Pharmacy, Kalina, Mumbai",
+      "academicYear": "2026-2027",
+      "applicationType": "New Institution Approval",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Smt. Kavitha Nair (RO South-West)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 0,
+      "submissionDate": "2026-09-23",
+      "lastUpdated": "2026-10-24",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-23 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Smt. Kavitha Nair (RO South-West)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-BCP-MH-01-2026-033"
+    },
+    {
+      "id": "APP-2026-1034",
+      "institutionId": "1-8091001788",
+      "institutionName": "National Institute of Pharmaceutical Education & Research (NIPER)",
+      "academicYear": "2026-2027",
+      "applicationType": "Closure of Course",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Amitabh Sen (Scrutiny Committee)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 1,
+      "submissionDate": "2026-09-24",
+      "lastUpdated": "2026-10-25",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-24 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Amitabh Sen (Scrutiny Committee)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-NIPER-PB-01-2026-034"
+    },
+    {
+      "id": "APP-2026-1035",
+      "institutionId": "1-9102112799",
+      "institutionName": "Jamnalal Bajaj Institute of Management Studies (JBIMS)",
+      "academicYear": "2026-2027",
+      "applicationType": "Extension of Approval (EoA)",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Er. Priya Patel (Inspection Head)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 2,
+      "submissionDate": "2026-09-25",
+      "lastUpdated": "2026-10-26",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-25 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Er. Priya Patel (Inspection Head)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-JBIMS-MH-01-2026-035"
+    },
+    {
+      "id": "APP-2026-1036",
+      "institutionId": "1-1123223800",
+      "institutionName": "Faculty of Management Studies (FMS), University of Delhi",
+      "academicYear": "2026-2027",
+      "applicationType": "New Course Introduction",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Rajesh Sharma (RO Western)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 3,
+      "submissionDate": "2026-09-26",
+      "lastUpdated": "2026-10-15",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-26 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Rajesh Sharma (RO Western)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-FMS-DL-01-2026-036"
+    },
+    {
+      "id": "APP-2026-1037",
+      "institutionId": "1-1234334811",
+      "institutionName": "Government Polytechnic, Pune",
+      "academicYear": "2026-2027",
+      "applicationType": "Increase in Intake",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Smt. Kavitha Nair (RO South-West)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 4,
+      "submissionDate": "2026-09-27",
+      "lastUpdated": "2026-10-16",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-27 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Smt. Kavitha Nair (RO South-West)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-GPP-MH-01-2026-037"
+    },
+    {
+      "id": "APP-2026-1038",
+      "institutionId": "1-1345445822",
+      "institutionName": "Government Polytechnic, Hyderabad",
+      "academicYear": "2026-2027",
+      "applicationType": "New Institution Approval",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Amitabh Sen (Scrutiny Committee)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 5,
+      "submissionDate": "2026-09-28",
+      "lastUpdated": "2026-10-17",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-28 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Amitabh Sen (Scrutiny Committee)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-GPH-TS-01-2026-038"
+    },
+    {
+      "id": "APP-2026-1039",
+      "institutionId": "1-1456556833",
+      "institutionName": "Jadavpur University Faculty of Engg & Tech, Kolkata",
+      "academicYear": "2026-2027",
+      "applicationType": "Closure of Course",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Er. Priya Patel (Inspection Head)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 6,
+      "submissionDate": "2026-09-29",
+      "lastUpdated": "2026-10-18",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-29 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Er. Priya Patel (Inspection Head)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-JU-WB-01-2026-039"
+    },
+    {
+      "id": "APP-2026-1040",
+      "institutionId": "1-1567667844",
+      "institutionName": "Malaviya National Institute of Technology (MNIT) Jaipur",
+      "academicYear": "2026-2027",
+      "applicationType": "Extension of Approval (EoA)",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Rajesh Sharma (RO Western)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 7,
+      "submissionDate": "2026-09-10",
+      "lastUpdated": "2026-10-19",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-10 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Rajesh Sharma (RO Western)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-MNIT-RJ-01-2026-040"
+    },
+    {
+      "id": "APP-2026-1041",
+      "institutionId": "1-1678778855",
+      "institutionName": "L.D. College of Engineering, Ahmedabad",
+      "academicYear": "2026-2027",
+      "applicationType": "New Course Introduction",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Smt. Kavitha Nair (RO South-West)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 8,
+      "submissionDate": "2026-09-11",
+      "lastUpdated": "2026-10-20",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-11 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Smt. Kavitha Nair (RO South-West)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-LDCE-GJ-01-2026-041"
+    },
+    {
+      "id": "APP-2026-1042",
+      "institutionId": "1-1789889866",
+      "institutionName": "College of Engineering, Trivandrum (CET)",
+      "academicYear": "2026-2027",
+      "applicationType": "Increase in Intake",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Amitabh Sen (Scrutiny Committee)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 9,
+      "submissionDate": "2026-09-12",
+      "lastUpdated": "2026-10-21",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-12 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Amitabh Sen (Scrutiny Committee)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-CET-KL-01-2026-042"
+    },
+    {
+      "id": "APP-2026-1043",
+      "institutionId": "1-1890990877",
+      "institutionName": "Madhav Institute of Technology & Science (MITS) Gwalior",
+      "academicYear": "2026-2027",
+      "applicationType": "New Institution Approval",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Er. Priya Patel (Inspection Head)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 10,
+      "submissionDate": "2026-09-13",
+      "lastUpdated": "2026-10-22",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-13 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Er. Priya Patel (Inspection Head)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-MITS-MP-01-2026-043"
+    },
+    {
+      "id": "APP-2026-1044",
+      "institutionId": "1-1901101888",
+      "institutionName": "Thapar Institute of Engineering and Technology, Patiala",
+      "academicYear": "2026-2027",
+      "applicationType": "Closure of Course",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Rajesh Sharma (RO Western)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 11,
+      "submissionDate": "2026-09-14",
+      "lastUpdated": "2026-10-23",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-14 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Rajesh Sharma (RO Western)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-TIET-PB-01-2026-044"
+    },
+    {
+      "id": "APP-2026-1045",
+      "institutionId": "1-2012212899",
+      "institutionName": "Institute of Chemical Technology (ICT), Mumbai",
+      "academicYear": "2026-2027",
+      "applicationType": "Extension of Approval (EoA)",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Smt. Kavitha Nair (RO South-West)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": -3,
+      "submissionDate": "2026-09-15",
+      "lastUpdated": "2026-10-24",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-15 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Smt. Kavitha Nair (RO South-West)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-ICT-MH-01-2026-045"
+    },
+    {
+      "id": "APP-2026-1046",
+      "institutionId": "1-2123323900",
+      "institutionName": "Birla Institute of Technology (BIT), Mesra, Ranchi",
+      "academicYear": "2026-2027",
+      "applicationType": "New Course Introduction",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Amitabh Sen (Scrutiny Committee)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": -2,
+      "submissionDate": "2026-09-16",
+      "lastUpdated": "2026-10-25",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-16 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Amitabh Sen (Scrutiny Committee)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-BITM-JH-01-2026-046"
+    },
+    {
+      "id": "APP-2026-1047",
+      "institutionId": "1-2234434911",
+      "institutionName": "BMS College of Engineering, Bengaluru",
+      "academicYear": "2026-2027",
+      "applicationType": "Increase in Intake",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Er. Priya Patel (Inspection Head)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": -1,
+      "submissionDate": "2026-09-17",
+      "lastUpdated": "2026-10-26",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-17 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Er. Priya Patel (Inspection Head)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-BMSCE-KA-02-2026-047"
+    },
+    {
+      "id": "APP-2026-1048",
+      "institutionId": "1-2345545922",
+      "institutionName": "College of Engineering Guindy, Anna University, Chennai",
+      "academicYear": "2026-2027",
+      "applicationType": "New Institution Approval",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Rajesh Sharma (RO Western)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 0,
+      "submissionDate": "2026-09-18",
+      "lastUpdated": "2026-10-15",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-18 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Rajesh Sharma (RO Western)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-CEG-TN-02-2026-048"
+    },
+    {
+      "id": "APP-2026-1049",
+      "institutionId": "1-2456656933",
+      "institutionName": "Andhra University College of Engineering, Visakhapatnam",
+      "academicYear": "2026-2027",
+      "applicationType": "Closure of Course",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Smt. Kavitha Nair (RO South-West)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 1,
+      "submissionDate": "2026-09-19",
+      "lastUpdated": "2026-10-16",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-19 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Smt. Kavitha Nair (RO South-West)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-AUCE-AP-01-2026-049"
+    },
+    {
+      "id": "APP-2026-1050",
+      "institutionId": "1-2567767944",
+      "institutionName": "University College of Engineering, Osmania University, Hyderabad",
+      "academicYear": "2026-2027",
+      "applicationType": "Extension of Approval (EoA)",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Amitabh Sen (Scrutiny Committee)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 2,
+      "submissionDate": "2026-09-20",
+      "lastUpdated": "2026-10-17",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-20 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Amitabh Sen (Scrutiny Committee)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-UCEOU-TS-02-2026-050"
+    },
+    {
+      "id": "APP-2026-1051",
+      "institutionId": "1-2678878955",
+      "institutionName": "Government College of Engineering, Salem",
+      "academicYear": "2026-2027",
+      "applicationType": "New Course Introduction",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Er. Priya Patel (Inspection Head)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 3,
+      "submissionDate": "2026-09-21",
+      "lastUpdated": "2026-10-18",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-21 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Er. Priya Patel (Inspection Head)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-GCES-TN-03-2026-051"
+    },
+    {
+      "id": "APP-2026-1052",
+      "institutionId": "1-2789989966",
+      "institutionName": "Apex Global Institute of Technology & Management, Greater Noida",
+      "academicYear": "2026-2027",
+      "applicationType": "Increase in Intake",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Rajesh Sharma (RO Western)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 4,
+      "submissionDate": "2026-09-22",
+      "lastUpdated": "2026-10-19",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-22 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Rajesh Sharma (RO Western)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-AGITM-UP-01-2026-052"
+    },
+    {
+      "id": "APP-2026-1053",
+      "institutionId": "1-1029384711",
+      "institutionName": "College of Engineering, Pune (COEP Technological Univ)",
+      "academicYear": "2026-2027",
+      "applicationType": "New Institution Approval",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Smt. Kavitha Nair (RO South-West)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 5,
+      "submissionDate": "2026-09-23",
+      "lastUpdated": "2026-10-20",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-23 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Smt. Kavitha Nair (RO South-West)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-COEP-MH-01-2026-053"
+    },
+    {
+      "id": "APP-2026-1054",
+      "institutionId": "1-2039485722",
+      "institutionName": "Veermata Jijabai Technological Institute (VJTI) Mumbai",
+      "academicYear": "2026-2027",
+      "applicationType": "Closure of Course",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Amitabh Sen (Scrutiny Committee)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 6,
+      "submissionDate": "2026-09-24",
+      "lastUpdated": "2026-10-21",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-24 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Amitabh Sen (Scrutiny Committee)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-VJTI-MH-02-2026-054"
+    },
+    {
+      "id": "APP-2026-1055",
+      "institutionId": "1-3049586733",
+      "institutionName": "RV College of Engineering, Bengaluru",
+      "academicYear": "2026-2027",
+      "applicationType": "Extension of Approval (EoA)",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Er. Priya Patel (Inspection Head)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 7,
+      "submissionDate": "2026-09-25",
+      "lastUpdated": "2026-10-22",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-25 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Er. Priya Patel (Inspection Head)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-RVCE-KA-01-2026-055"
+    },
+    {
+      "id": "APP-2026-1056",
+      "institutionId": "1-4059687744",
+      "institutionName": "PSG College of Technology, Coimbatore",
+      "academicYear": "2026-2027",
+      "applicationType": "New Course Introduction",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Rajesh Sharma (RO Western)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 8,
+      "submissionDate": "2026-09-26",
+      "lastUpdated": "2026-10-23",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-26 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Rajesh Sharma (RO Western)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-PSGCT-TN-01-2026-056"
+    },
+    {
+      "id": "APP-2026-1057",
+      "institutionId": "1-5069788755",
+      "institutionName": "Delhi Technological University (DTU), Delhi",
+      "academicYear": "2026-2027",
+      "applicationType": "Increase in Intake",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Smt. Kavitha Nair (RO South-West)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 9,
+      "submissionDate": "2026-09-27",
+      "lastUpdated": "2026-10-24",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-27 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Smt. Kavitha Nair (RO South-West)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-DTU-DL-01-2026-057"
+    },
+    {
+      "id": "APP-2026-1058",
+      "institutionId": "1-6079889766",
+      "institutionName": "Sardar Patel College of Engineering, Mumbai",
+      "academicYear": "2026-2027",
+      "applicationType": "New Institution Approval",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Amitabh Sen (Scrutiny Committee)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 10,
+      "submissionDate": "2026-09-28",
+      "lastUpdated": "2026-10-25",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-28 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Amitabh Sen (Scrutiny Committee)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-SPCE-MH-03-2026-058"
+    },
+    {
+      "id": "APP-2026-1059",
+      "institutionId": "1-7089990777",
+      "institutionName": "Bombay College of Pharmacy, Kalina, Mumbai",
+      "academicYear": "2026-2027",
+      "applicationType": "Closure of Course",
+      "stage": "Inspection",
+      "status": "In Review",
+      "assignedOfficer": "Er. Priya Patel (Inspection Head)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": 11,
+      "submissionDate": "2026-09-29",
+      "lastUpdated": "2026-10-26",
+      "stepProgress": 4,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-29 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Inspection",
+          "actor": "Er. Priya Patel (Inspection Head)",
+          "notes": "Workflow progress to Inspection"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-BCP-MH-01-2026-059"
+    },
+    {
+      "id": "APP-2026-1060",
+      "institutionId": "1-8091001788",
+      "institutionName": "National Institute of Pharmaceutical Education & Research (NIPER)",
+      "academicYear": "2026-2027",
+      "applicationType": "Extension of Approval (EoA)",
+      "stage": "Submitted",
+      "status": "Pending",
+      "assignedOfficer": "Dr. Rajesh Sharma (RO Western)",
+      "slaDaysTotal": 21,
+      "slaDaysRemaining": -3,
+      "submissionDate": "2026-09-10",
+      "lastUpdated": "2026-10-15",
+      "stepProgress": 1,
+      "deficiencies": [],
+      "history": [
+        {
+          "timestamp": "2026-09-10 10:00",
+          "action": "Application Submitted",
+          "actor": "Institute Admin",
+          "notes": "Online submission complete"
+        },
+        {
+          "timestamp": "2026-10-01 14:30",
+          "action": "Moved to Submitted",
+          "actor": "Dr. Rajesh Sharma (RO Western)",
+          "notes": "Workflow progress to Submitted"
+        }
+      ],
+      "coursesRequested": [
+        {
+          "name": "Computer Science & Engineering",
+          "level": "UG",
+          "currentIntake": 120,
+          "proposedIntake": 120
+        },
+        {
+          "name": "Electronics & Communication",
+          "level": "UG",
+          "currentIntake": 60,
+          "proposedIntake": 90
+        }
+      ],
+      "qrVerificationCode": "QR-AICTE-NIPER-PB-01-2026-060"
+    }
+  ],
+  "complianceRules": [
+    {
+      "id": "APH-R01",
+      "title": "Faculty to Student Ratio (FSR)",
+      "aphClause": "Clause 7.1 / Table 7.1",
+      "category": "Faculty",
+      "metric": "faculty_student_ratio",
+      "operator": "<=",
+      "thresholdValue": 20,
+      "courseType": "UG Engineering",
+      "severity": "Critical",
+      "description": "Statutory cadre requirement mandates maximum 20 students per qualified full-time faculty member in UG technical programs.",
+      "fixSuggestion": "Recruit additional regular/contractual faculty members with AICTE-approved qualifications or adjust intake.",
+      "version": "2026.1",
+      "effectiveDate": "2026-01-01"
+    },
+    {
+      "id": "APH-R02",
+      "title": "Minimum Built-Up Instructional Space",
+      "aphClause": "Clause 8.3 / Appendix 4",
+      "category": "Infrastructure",
+      "metric": "instructional_area_per_student",
+      "operator": ">=",
+      "thresholdValue": 4.5,
+      "courseType": "All Technical",
+      "severity": "High",
+      "description": "Built-up instructional area (classrooms, tutorial rooms, drawing halls) must meet or exceed 4.5 sq. meters per enrolled student.",
+      "fixSuggestion": "Allocate additional instructional space or convert administrative overflow areas before applying for intake expansion.",
+      "version": "2026.1",
+      "effectiveDate": "2026-01-01"
+    },
+    {
+      "id": "APH-R03",
+      "title": "Valid State Fire & Safety NOC",
+      "aphClause": "Clause 4.2 / Appendix 2",
+      "category": "Safety",
+      "metric": "fire_noc_validity",
+      "operator": "VALID_DATE",
+      "thresholdValue": "2026-10-27",
+      "courseType": "All Technical",
+      "severity": "Critical",
+      "description": "Institution must hold a currently valid Fire & Life Safety Certificate issued by State Fire Services or Municipal Authority.",
+      "fixSuggestion": "Upload valid renewed Fire NOC with QR code and municipal dispatch number immediately to avoid show-cause.",
+      "version": "2026.1",
+      "effectiveDate": "2026-01-01"
+    },
+    {
+      "id": "APH-R04",
+      "title": "Mandatory Cadre Ratio (Prof : Asso Prof : Asst Prof)",
+      "aphClause": "Clause 7.4 / Table 7.2",
+      "category": "Faculty",
+      "metric": "cadre_ratio_professor_percentage",
+      "operator": ">=",
+      "thresholdValue": 10,
+      "courseType": "UG Engineering",
+      "severity": "High",
+      "description": "Cadre structure must adhere to 1 Professor : 2 Associate Professors : 6 Assistant Professors per department.",
+      "fixSuggestion": "Promote eligible Associate Professors under CAS or release open recruitments for Professor posts.",
+      "version": "2026.1",
+      "effectiveDate": "2026-01-01"
+    },
+    {
+      "id": "APH-R05",
+      "title": "Computer Lab Machine-to-Student Ratio",
+      "aphClause": "Clause 8.7 / Appendix 5",
+      "category": "Infrastructure",
+      "metric": "computer_student_ratio",
+      "operator": "<=",
+      "thresholdValue": 4,
+      "courseType": "All Technical",
+      "severity": "Medium",
+      "description": "Institution must provide minimum 1 high-speed networked desktop terminal per 4 students with licensed/open-source software.",
+      "fixSuggestion": "Procure additional desktop nodes and renew campus-wide software subscription agreements.",
+      "version": "2026.1",
+      "effectiveDate": "2026-01-01"
+    },
+    {
+      "id": "APH-R06",
+      "title": "Mandatory Website Statutory Disclosure",
+      "aphClause": "Clause 3.1 / Appendix 1",
+      "category": "Governance",
+      "metric": "mandatory_disclosure_published",
+      "operator": "==",
+      "thresholdValue": 1,
+      "courseType": "All Technical",
+      "severity": "High",
+      "description": "Institutions must maintain an active, un-gated public Mandatory Disclosure page on their official website updated annually.",
+      "fixSuggestion": "Update and verify hyperlinked Mandatory Disclosure document on institute homepage.",
+      "version": "2026.1",
+      "effectiveDate": "2026-01-01"
+    },
+    {
+      "id": "APH-R07",
+      "title": "Barrier-Free Campus & Divyangjan Facilities",
+      "aphClause": "Clause 9.1 / Appendix 6",
+      "category": "Infrastructure",
+      "metric": "divyangjan_barrier_free_score",
+      "operator": ">=",
+      "thresholdValue": 100,
+      "courseType": "All Technical",
+      "severity": "High",
+      "description": "Wheelchair ramps, tactile paving, Braille lift signage, and designated accessible washrooms are statutory mandates.",
+      "fixSuggestion": "Complete elevator ramp retrofit and upload physical geotagged photographs in the inspection module.",
+      "version": "2026.1",
+      "effectiveDate": "2026-01-01"
+    },
+    {
+      "id": "APH-R08",
+      "title": "National Digital Library (NDLI) Club & E-Journals",
+      "aphClause": "Clause 6.4 / Appendix 3",
+      "category": "Academics",
+      "metric": "e_journal_subscriptions_count",
+      "operator": ">=",
+      "thresholdValue": 12,
+      "courseType": "All Technical",
+      "severity": "Medium",
+      "description": "Minimum subscription to IEEE/ASME/Springer e-journal packages and active NDLI institutional club registration.",
+      "fixSuggestion": "Renew consortia e-journal package via DELNET/INFLIBNET and sync subscription invoice.",
+      "version": "2026.1",
+      "effectiveDate": "2026-01-01"
+    }
+  ],
+  "alerts": [
+    {
+      "id": "ALT-NUDGE-4044",
+      "priority": "Critical",
+      "type": "Compliance Score Drop",
+      "title": "Statutory Advisory Nudge: Apex Global Institute of Technology & Management, Greater Noida",
+      "message": "Statutory Warning: AICTE Predictive Model forecasts a 86% non-compliance probability in the next 90 days. Primary driver: Severe faculty shortage (FSR 1:32), Reused building clearance certificate hash matches another campus, Public grievance regarding unauthorized fee collection. Please upload corrective documentation immediately.",
+      "institutionId": "1-2789989966",
+      "institutionName": "Apex Global Institute of Technology & Management, Greater Noida",
+      "status": "New",
+      "escalationStage": "RO Level 1",
+      "createdTime": "2026-10-28 08:37",
+      "channels": [
+        "In-App",
+        "Email",
+        "WhatsApp"
+      ]
+    },
+    {
+      "id": "ALT-NUDGE-0829",
+      "priority": "Critical",
+      "type": "Compliance Score Drop",
+      "title": "Statutory Advisory Nudge: Apex Global Institute of Technology & Management, Greater Noida",
+      "message": "Statutory Warning: AICTE Predictive Model forecasts a 86% non-compliance probability in the next 90 days. Primary driver: Severe faculty shortage (FSR 1:32), Reused building clearance certificate hash matches another campus, Public grievance regarding unauthorized fee collection. Please upload corrective documentation immediately.",
+      "institutionId": "1-2789989966",
+      "institutionName": "Apex Global Institute of Technology & Management, Greater Noida",
+      "status": "New",
+      "escalationStage": "RO Level 1",
+      "createdTime": "2026-10-28 06:14",
+      "channels": [
+        "In-App",
+        "Email",
+        "WhatsApp"
+      ]
+    },
+    {
+      "id": "ALT-2026-001",
+      "priority": "Critical",
+      "type": "Ghost Faculty",
+      "title": "Ghost Faculty Cross-Collision Detected",
+      "message": "Faculty PAN ABCDE1234F (Dr. Ramesh Verma) simultaneously claimed as full-time by COEP Pune and SPCE Mumbai.",
+      "institutionId": "1-6079889766",
+      "institutionName": "Sardar Patel College of Engineering, Mumbai",
+      "status": "Acknowledged",
+      "escalationStage": "Regional Director",
+      "createdTime": "2026-10-26 09:30",
+      "channels": [
+        "In-App",
+        "Email",
+        "SMS"
+      ],
+      "acknowledgedBy": "Current Authorized Officer"
+    },
+    {
+      "id": "ALT-2026-002",
+      "priority": "Critical",
+      "type": "Fire NOC Expiring",
+      "title": "Statutory Fire NOC Expiring in 18 Days",
+      "message": "Fire Safety Clearance certificate for Campus Blocks A, B & C expires on 14-Nov-2026. Renewal deed not uploaded.",
+      "institutionId": "1-6079889766",
+      "institutionName": "Sardar Patel College of Engineering, Mumbai",
+      "status": "New",
+      "escalationStage": "RO Level 1",
+      "createdTime": "2026-10-27 08:15",
+      "channels": [
+        "In-App",
+        "SMS",
+        "WhatsApp"
+      ]
+    },
+    {
+      "id": "ALT-2026-003",
+      "priority": "High",
+      "type": "SLA Overdue",
+      "title": "Statutory SLA Turnaround Overdue (-5 Days)",
+      "message": "Application APP-2026-1004 (Apex Global) exceeded 21-day scrutiny limit without formal show-cause notification.",
+      "institutionId": "1-2789989966",
+      "institutionName": "Apex Global Institute of Technology & Management",
+      "status": "Escalated",
+      "escalationStage": "Member Secretary AICTE",
+      "createdTime": "2026-10-22 14:00",
+      "channels": [
+        "In-App",
+        "Email"
+      ]
+    },
+    {
+      "id": "ALT-2026-004",
+      "priority": "Medium",
+      "type": "Compliance Score Drop",
+      "title": "Compliance Health Score Dropped Below 70%",
+      "message": "Madhav Institute score declined from 79 to 64 following lapse of fire clearance and non-submission of audited finance.",
+      "institutionId": "1-1890990877",
+      "institutionName": "Madhav Institute of Technology & Science (MITS) Gwalior",
+      "status": "Acknowledged",
+      "escalationStage": "RO Level 1",
+      "createdTime": "2026-10-24 16:20",
+      "acknowledgedBy": "Er. Priya Patel",
+      "channels": [
+        "In-App"
+      ]
+    },
+    {
+      "id": "ALT-2026-005",
+      "priority": "High",
+      "type": "Inspection Scheduled",
+      "title": "Mandatory Surprise Physical Inspection Scheduled",
+      "message": "Surprise inspection scheduled for Apex Global campus regarding laboratory infrastructure deficit.",
+      "institutionId": "1-2789989966",
+      "institutionName": "Apex Global Institute of Technology & Management",
+      "status": "New",
+      "escalationStage": "RO Level 1",
+      "createdTime": "2026-10-27 11:00",
+      "channels": [
+        "In-App",
+        "Email",
+        "SMS"
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "id": "DOC-2026-1527",
+      "institutionId": "1-6079889766",
+      "institutionName": "Sardar Patel College of Engineering, Mumbai",
+      "docType": "Building Completion Certificate",
+      "fileName": "SPCE_Municipal_Fire_NOC_20asd26.pdf",
+      "uploadDate": "2026-10-28",
+      "status": "Needs Attention",
+      "ocrExtracted": {
+        "instituteNameExtracted": "SARDAR PATEL COLLEGE OF ENGINEERING, MUMBAI",
+        "issueDate": "2024-05-10",
+        "validTill": "2026-11-14",
+        "regNumber": "REG/AICTE/2026/6123",
+        "confidence": 96.5
+      },
+      "hash": "hash_1793176711527_o0x6ya",
+      "flags": [
+        "Validity expiry within 30 days. Upload renewal acknowledgement."
+      ]
+    },
+    {
+      "id": "DOC-2026-1300",
+      "institutionId": "1-6079889766",
+      "institutionName": "Sardar Patel College of Engineering, Mumbai",
+      "docType": "Fire Safety Certificate (NOC)",
+      "fileName": "SPCE_Municipal_Fire_NOC_2026.pdf",
+      "uploadDate": "2026-10-28",
+      "status": "Needs Attention",
+      "ocrExtracted": {
+        "instituteNameExtracted": "SARDAR PATEL COLLEGE OF ENGINEERING, MUMBAI",
+        "issueDate": "2024-05-10",
+        "validTill": "2026-11-14",
+        "regNumber": "REG/AICTE/2026/1544",
+        "confidence": 96.5
+      },
+      "hash": "hash_1793176691300_l91pwp",
+      "flags": [
+        "Validity expiry within 30 days. Upload renewal acknowledgement."
+      ]
+    },
+    {
+      "id": "DOC-2026-001",
+      "institutionId": "1-1029384711",
+      "institutionName": "College of Engineering, Pune (COEP Technological Univ)",
+      "docType": "Fire Safety Certificate (NOC)",
+      "fileName": "COEP_Fire_NOC_2024_2027.pdf",
+      "uploadDate": "2026-09-10",
+      "status": "Verified",
+      "verificationStatus": "Approved",
+      "history": [
+        {
+          "date": "2026-09-10",
+          "fileName": "COEP_Fire_NOC_2024_2027.pdf",
+          "action": "Uploaded by Registrar",
+          "remarks": "Initial submission for EoA 2026-27"
+        },
+        {
+          "date": "2026-09-12",
+          "fileName": "COEP_Fire_NOC_2024_2027.pdf",
+          "action": "Scrutinized & Approved",
+          "remarks": "Verified valid with Pune Municipal Fire Dept"
+        }
+      ],
+      "ocrExtracted": {
+        "instituteNameExtracted": "COLLEGE OF ENGINEERING PUNE TECHNOLOGICAL UNIVERSITY",
+        "issueDate": "2024-04-01",
+        "validTill": "2027-03-31",
+        "regNumber": "PMC/FIRE/2024/9912",
+        "confidence": 98.4
+      },
+      "hash": "a9f8b4c2d1e0123456789abcdef0123456789abcdef0123456789abcdef01234",
+      "flags": []
+    },
+    {
+      "id": "DOC-2026-004",
+      "institutionId": "1-1029384711",
+      "institutionName": "College of Engineering, Pune (COEP Technological Univ)",
+      "docType": "Land Ownership & Registered Title Deed",
+      "fileName": "COEP_Campus_Land_Deed_Permanent.pdf",
+      "uploadDate": "2026-08-20",
+      "status": "Verified",
+      "verificationStatus": "Approved",
+      "history": [
+        {
+          "date": "2026-08-20",
+          "fileName": "COEP_Campus_Land_Deed_Permanent.pdf",
+          "action": "Uploaded by Registrar",
+          "remarks": "Title deed covering 36.4 acres"
+        }
+      ],
+      "ocrExtracted": {
+        "instituteNameExtracted": "COLLEGE OF ENGINEERING PUNE",
+        "issueDate": "2018-01-15",
+        "validTill": "Permanent",
+        "regNumber": "HAV/PUNE/LAND/2018/4410",
+        "confidence": 99.1
+      },
+      "hash": "e1f2a3b4c5d60718293a4b5c6d7e8f90123456789abcdef0123456789abcdef0",
+      "flags": []
+    },
+    {
+      "id": "DOC-2026-005",
+      "institutionId": "1-1029384711",
+      "institutionName": "College of Engineering, Pune (COEP Technological Univ)",
+      "docType": "Building Completion & Occupancy Certificate",
+      "fileName": "COEP_Academic_Complex_Occupancy.pdf",
+      "uploadDate": "2026-08-25",
+      "status": "Verified",
+      "verificationStatus": "Approved",
+      "history": [
+        {
+          "date": "2026-08-25",
+          "fileName": "COEP_Academic_Complex_Occupancy.pdf",
+          "action": "Uploaded by Estate Officer",
+          "remarks": "Covering Main, South and North Wings"
+        }
+      ],
+      "ocrExtracted": {
+        "instituteNameExtracted": "COEP TECHNOLOGICAL UNIVERSITY",
+        "issueDate": "2022-03-10",
+        "validTill": "Permanent",
+        "regNumber": "PMC/ENG/OCC/2022/1092",
+        "confidence": 97.8
+      },
+      "hash": "f4e3d2c1b0a987654321fedcba0987654321fedcba0987654321fedcba098765",
+      "flags": []
+    },
+    {
+      "id": "DOC-2026-006",
+      "institutionId": "1-1029384711",
+      "institutionName": "College of Engineering, Pune (COEP Technological Univ)",
+      "docType": "Divyangjan Barrier-Free Campus Audit Certificate",
+      "fileName": "COEP_Divyangjan_Accessibility_Audit_2026.pdf",
+      "uploadDate": "2026-09-02",
+      "status": "Verified",
+      "verificationStatus": "Approved",
+      "history": [
+        {
+          "date": "2026-09-02",
+          "fileName": "COEP_Divyangjan_Accessibility_Audit_2026.pdf",
+          "action": "Uploaded",
+          "remarks": "Accessible ramps, lifts and braille signage audit"
+        }
+      ],
+      "ocrExtracted": {
+        "instituteNameExtracted": "COLLEGE OF ENGINEERING PUNE",
+        "issueDate": "2026-07-15",
+        "validTill": "2028-07-14",
+        "regNumber": "PWD/ACC/2026/0411",
+        "confidence": 96.5
+      },
+      "hash": "123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef0",
+      "flags": []
+    },
+    {
+      "id": "DOC-2026-007",
+      "institutionId": "1-1029384711",
+      "institutionName": "College of Engineering, Pune (COEP Technological Univ)",
+      "docType": "AICTE Mandatory Public Disclosure 2026",
+      "fileName": "COEP_Mandatory_Disclosure_AY2026.pdf",
+      "uploadDate": "2026-09-15",
+      "status": "Verified",
+      "verificationStatus": "Approved",
+      "history": [
+        {
+          "date": "2026-09-15",
+          "fileName": "COEP_Mandatory_Disclosure_AY2026.pdf",
+          "action": "Published & Uploaded",
+          "remarks": "Hosted on college website per APH Chapter 3"
+        }
+      ],
+      "ocrExtracted": {
+        "instituteNameExtracted": "COEP TECHNOLOGICAL UNIVERSITY PUNE",
+        "issueDate": "2026-09-10",
+        "validTill": "2027-08-31",
+        "regNumber": "COEP/PUB/2026/01",
+        "confidence": 99
+      },
+      "hash": "987654321fedcba0987654321fedcba0987654321fedcba0987654321fedcba0",
+      "flags": []
+    },
+    {
+      "id": "DOC-2026-002",
+      "institutionId": "1-6079889766",
+      "institutionName": "Sardar Patel College of Engineering, Mumbai",
+      "docType": "Fire Safety Certificate (NOC)",
+      "fileName": "SPCE_Fire_Safety_NOC.pdf",
+      "uploadDate": "2026-09-24",
+      "status": "Needs Attention",
+      "verificationStatus": "Rejected",
+      "rejectionReason": "NOC expires on 14-Nov-2026 (less than 30 days remaining in academic cycle). Submit municipal renewal receipt or renewed NOC.",
+      "history": [
+        {
+          "date": "2026-09-24",
+          "fileName": "SPCE_Fire_Safety_NOC.pdf",
+          "action": "Uploaded by Principal Office",
+          "remarks": "Prior certificate submitted"
+        },
+        {
+          "date": "2026-09-27",
+          "fileName": "SPCE_Fire_Safety_NOC.pdf",
+          "action": "Scrutiny Deficiency Flagged",
+          "remarks": "Expiry date is within 30 days statutory cutoff"
+        }
+      ],
+      "ocrExtracted": {
+        "instituteNameExtracted": "SARDAR PATEL COLLEGE OF ENGINEERING",
+        "issueDate": "2023-11-15",
+        "validTill": "2026-11-14",
+        "regNumber": "MCGM/FIRE/ZONE4/4819",
+        "confidence": 94.2
+      },
+      "hash": "b8e7c3b1a0f9876543210fedcba9876543210fedcba9876543210fedcba98765",
+      "flags": [
+        "NOC expiring within 30 days"
+      ]
+    },
+    {
+      "id": "DOC-2026-008",
+      "institutionId": "1-6079889766",
+      "institutionName": "Sardar Patel College of Engineering, Mumbai",
+      "docType": "Faculty Relieving & Appointment Deeds",
+      "fileName": "SPCE_Faculty_Relieving_Affidavits.pdf",
+      "uploadDate": "2026-10-24",
+      "status": "Verified",
+      "verificationStatus": "Pending",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "fileName": "SPCE_Faculty_Relieving_Affidavits.pdf",
+          "action": "Uploaded in response to Deficiency",
+          "remarks": "Relieving certificate for Dr. Ramesh Verma from prior college"
+        }
+      ],
+      "ocrExtracted": {
+        "instituteNameExtracted": "SARDAR PATEL COLLEGE OF ENGINEERING",
+        "issueDate": "2026-10-20",
+        "validTill": "Permanent",
+        "regNumber": "SPCE/HR/REL/2026/89",
+        "confidence": 95.8
+      },
+      "hash": "456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef0123",
+      "flags": []
+    },
+    {
+      "id": "DOC-2026-003",
+      "institutionId": "1-2789989966",
+      "institutionName": "Apex Global Institute of Technology & Management",
+      "docType": "Building Completion Certificate",
+      "fileName": "Apex_Building_Plan_Sanction.pdf",
+      "uploadDate": "2026-09-18",
+      "status": "Suspicious",
+      "verificationStatus": "Rejected",
+      "rejectionReason": "Duplicate file hash matches document uploaded by another college. Revenue survey numbers mismatch GIS database.",
+      "history": [
+        {
+          "date": "2026-09-18",
+          "fileName": "Apex_Building_Plan_Sanction.pdf",
+          "action": "Uploaded",
+          "remarks": "Campus building approval"
+        },
+        {
+          "date": "2026-09-20",
+          "fileName": "Apex_Building_Plan_Sanction.pdf",
+          "action": "Fraud Flag Raised",
+          "remarks": "Exact byte hash matches deed of Apex Meerut"
+        }
+      ],
+      "ocrExtracted": {
+        "instituteNameExtracted": "APEX EDUCATION FOUNDATION TRUST",
+        "issueDate": "2021-08-10",
+        "validTill": "Permanent",
+        "regNumber": "GNIDA/BLDG/2021/7721",
+        "confidence": 82.1
+      },
+      "hash": "c7d6b5a4938271605f4e3d2c1b0a987654321fedcba0987654321fedcba09876",
+      "flags": [
+        "Duplicate file hash: Document byte structure is 100% identical to uploaded deed for Institute 1-9988776655 (Apex Meerut)",
+        "Registered land survey numbers mismatch local revenue database"
+      ]
+    }
+  ],
+  "faculty": [
+    {
+      "id": "FAC-1001",
+      "pan": "ABCDE1234F",
+      "name": "Dr. Ramesh Verma",
+      "designation": "Professor",
+      "department": "Civil Engineering",
+      "institutionId": "1-6079889766",
+      "institutionName": "Sardar Patel College of Engineering, Mumbai",
+      "aadhaarVerified": true,
+      "isGhostFlagged": true,
+      "duplicateWithInstitution": "College of Engineering, Pune (COEP)"
+    },
+    {
+      "id": "FAC-1002",
+      "pan": "ABCDE1234F",
+      "name": "Dr. Ramesh Verma",
+      "designation": "Professor & Head",
+      "department": "Civil Engineering",
+      "institutionId": "1-1029384711",
+      "institutionName": "College of Engineering, Pune (COEP Technological Univ)",
+      "aadhaarVerified": true,
+      "isGhostFlagged": true,
+      "duplicateWithInstitution": "Sardar Patel College of Engineering, Mumbai"
+    },
+    {
+      "id": "FAC-1003",
+      "pan": "BKRPN9912K",
+      "name": "Dr. Sunita Kulkarni",
+      "designation": "Associate Professor",
+      "department": "Computer Engineering",
+      "institutionId": "1-1029384711",
+      "institutionName": "College of Engineering, Pune (COEP Technological Univ)",
+      "aadhaarVerified": true,
+      "isGhostFlagged": false
+    },
+    {
+      "id": "FAC-1004",
+      "pan": "MNBVC4321P",
+      "name": "Dr. Arvind Deshmukh",
+      "designation": "Professor",
+      "department": "Mechanical Engineering",
+      "institutionId": "1-2039485722",
+      "institutionName": "Veermata Jijabai Technological Institute (VJTI) Mumbai",
+      "aadhaarVerified": true,
+      "isGhostFlagged": false
+    },
+    {
+      "id": "FAC-1005",
+      "pan": "ZXCVB8765Q",
+      "name": "Dr. Harish Gowda",
+      "designation": "Professor",
+      "department": "Electronics & Communication",
+      "institutionId": "1-3049586733",
+      "institutionName": "RV College of Engineering, Bengaluru",
+      "aadhaarVerified": true,
+      "isGhostFlagged": false
+    }
+  ],
+  "inspections": [
+    {
+      "id": "INSP-2026-001",
+      "institutionId": "1-2789989966",
+      "institutionName": "Apex Global Institute of Technology & Management",
+      "mode": "Physical Visit",
+      "leadInspector": "Er. Priya Patel (Inspection Head)",
+      "committeeMembers": [
+        "Prof. S. R. Sharma (IIT Delhi)",
+        "Er. Vikas Dubey (PWD Nominee)"
+      ],
+      "scheduledDate": "2026-10-30",
+      "status": "Scheduled",
+      "geotagSimulated": {
+        "lat": 28.4744,
+        "lng": 77.504,
+        "locationName": "Knowledge Park III, Greater Noida"
+      },
+      "checklist": [
+        {
+          "item": "Physical verification of computing laboratories (minimum 120 PCs)",
+          "verified": false,
+          "remarks": "To be verified"
+        },
+        {
+          "item": "Verification of regular faculty Aadhaar biometric attendance logs",
+          "verified": false,
+          "remarks": "To be verified"
+        },
+        {
+          "item": "Barrier-free access ramp & Divyangjan washrooms",
+          "verified": false,
+          "remarks": "To be verified"
+        },
+        {
+          "item": "Fire hydrants & alarm functional testing",
+          "verified": false,
+          "remarks": "To be verified"
+        }
+      ],
+      "offlineSynced": true,
+      "reportSummary": "Pending on-site visit execution"
+    },
+    {
+      "id": "INSP-2026-002",
+      "institutionId": "1-3049586733",
+      "institutionName": "RV College of Engineering, Bengaluru",
+      "mode": "Virtual Scrutiny",
+      "leadInspector": "Smt. Kavitha Nair (RO South-West)",
+      "committeeMembers": [
+        "Prof. K. Venkatesh (IISc)",
+        "Dr. M. Swaminathan"
+      ],
+      "scheduledDate": "2026-10-18",
+      "status": "Report Submitted",
+      "geotagSimulated": {
+        "lat": 12.9237,
+        "lng": 77.4987,
+        "locationName": "Mysore Road Campus, Bengaluru"
+      },
+      "checklist": [
+        {
+          "item": "High-Performance Computing cluster inspection for Quantum program",
+          "verified": true,
+          "remarks": "Fully compliant with 64-node cluster"
+        },
+        {
+          "item": "E-Journals access and campus broadband bandwidth check",
+          "verified": true,
+          "remarks": "10 Gbps NKN lease line confirmed"
+        },
+        {
+          "item": "Research publications of designated PG faculty",
+          "verified": true,
+          "remarks": "Over 40 Scopus indexed papers verified"
+        }
+      ],
+      "offlineSynced": true,
+      "reportSummary": "Recommended for introduction of PG Quantum Computing program with approved intake of 30 seats."
+    }
+  ],
+  "officers": [
+    {
+      "id": "OFF-001",
+      "name": "Dr. Rajesh Sharma",
+      "role": "Regional Officer",
+      "region": "Western Region (Mumbai / Pune)",
+      "assignedCount": 42,
+      "resolvedCount": 38,
+      "overdueCount": 2,
+      "avgTurnaroundDays": 9.8,
+      "satisfactionScore": 94.6
+    },
+    {
+      "id": "OFF-002",
+      "name": "Smt. Kavitha Nair",
+      "role": "Regional Officer",
+      "region": "South-Western Region (Bengaluru / Kerala)",
+      "assignedCount": 36,
+      "resolvedCount": 34,
+      "overdueCount": 1,
+      "avgTurnaroundDays": 8.5,
+      "satisfactionScore": 96.2
+    },
+    {
+      "id": "OFF-003",
+      "name": "Dr. Amitabh Sen",
+      "role": "Scrutiny Committee Head",
+      "region": "Northern & Eastern Region",
+      "assignedCount": 29,
+      "resolvedCount": 24,
+      "overdueCount": 4,
+      "avgTurnaroundDays": 14.2,
+      "satisfactionScore": 88
+    },
+    {
+      "id": "OFF-004",
+      "name": "Er. Priya Patel",
+      "role": "Inspection Team Member",
+      "region": "National Quality Assurance Cell",
+      "assignedCount": 22,
+      "resolvedCount": 21,
+      "overdueCount": 0,
+      "avgTurnaroundDays": 6.4,
+      "satisfactionScore": 98.1
+    }
+  ]
+}
